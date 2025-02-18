@@ -1,0 +1,8 @@
+{
+  "name": "OfflineMap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "8297a183"
+}
